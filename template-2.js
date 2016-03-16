@@ -54,5 +54,4 @@ module.exports = function(RED) {
     }
 
     RED.nodes.registerType("template-2.0",TemplateNode);
-    RED.library.register("templates");
 }

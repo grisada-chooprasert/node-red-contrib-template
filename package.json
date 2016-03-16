@@ -31,7 +31,7 @@
   },
   "node-red": {
     "nodes": {
-      "template": "template.js"
+      "template-2": "template-2.js"
     }
   }
 }
